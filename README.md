@@ -1,3 +1,2 @@
 # joe
-A clone of the Betflix Page 
-Click here to view page
+Click to visit website https://joebolite.github.io/joe/
