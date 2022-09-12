@@ -1,2 +1,1 @@
-# joe
-Click to visit website https://joebolite.github.io/joe/
+click here https://Netflix-clone-1.joebolite.repl.co
